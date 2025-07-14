@@ -230,4 +230,4 @@ On completion of this script, this build would get compared to the previous buil
 
 ### Finished! 😀
 
-From here, you can try making your own changes to the website and functional tests, if you like. If you do, re-run the tests and you'll see any visual changes reflected in Percy.
+From here, you can try making your own changes to the website and functional tests, if you like. If you do, re-run the tests and you'll see any visual changes reflected in Percy.Trigger baseline Percy run
